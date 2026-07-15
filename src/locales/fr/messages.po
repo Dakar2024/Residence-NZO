@@ -1,0 +1,548 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-12-14 12:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: fr\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/features/residence/components/contact.tsx:84
+#~ msgid "[ Carte Google Maps, emplacement à définir ]"
+#~ msgstr "[ Carte Google Maps, emplacement à définir ]"
+
+#: src/app/$lang/privacy.tsx:121
+#: src/features/residence/components/contact.tsx:269
+msgid "© 2026 Résidence NZO · Tous droits réservés"
+msgstr "© 2026 Résidence NZO · Tous droits réservés"
+
+#: src/features/residence/components/contact.tsx:263
+msgid "81 Wattel Road, Golf Park, Meyerton, Afrique du Sud"
+msgstr "81 Wattel Road, Golf Park, Meyerton, Afrique du Sud"
+
+#: src/modules/$lang/about.tsx:22
+#~ msgid "A modern, typesafe, and powerful starter template for building web applications properly."
+#~ msgstr "A modern, typesafe, and powerful starter template for building web applications properly."
+
+#: src/features/residence/components/contact.tsx:230
+#: src/features/residence/components/nav.tsx:8
+msgid "À propos"
+msgstr "À propos"
+
+#: src/features/residence/components/about.tsx:19
+msgid "À propos de cette propriété"
+msgstr "À propos de cette propriété"
+
+#: src/shared/components/Navbar.tsx:38
+msgid "About"
+msgstr "About"
+
+#: src/modules/$lang/about.tsx:19
+#~ msgid "About ts-starter"
+#~ msgstr "About ts-starter"
+
+#: src/features/residence/components/gallery.tsx:41
+msgid "Agrandir la photo"
+msgstr "Agrandir la photo"
+
+#: src/features/residence/components/contact.tsx:84
+msgid "Appeler"
+msgstr "Appeler"
+
+#: src/features/residence/components/highlights.tsx:41
+msgid "Architecture contemporaine"
+msgstr "Architecture contemporaine"
+
+#: src/shared/components/ErrorBoundary.tsx:44
+#: src/shared/components/NotFound.tsx:36
+msgid "Back to home"
+msgstr "Back to home"
+
+#: src/features/residence/components/contact.tsx:131
+msgid "Bonjour, je m'appelle {name}."
+msgstr "Bonjour, je m'appelle {name}."
+
+#: src/modules/$lang/index.tsx:21
+#~ msgid "Build, ship, and explore TanStack Start with a head start."
+#~ msgstr "Construisez, déployez et explorez TanStack Start avec un coup d'avance."
+
+#: src/features/residence/components/highlights.tsx:53
+msgid "Cadre agréable"
+msgstr "Cadre agréable"
+
+#: src/features/residence/components/contact.tsx:90
+msgid "Carte de la Résidence NZO"
+msgstr "Carte de la Résidence NZO"
+
+#: src/app/$lang/privacy.tsx:82
+msgid "Ce site utilise un seul cookie technique, destiné à mémoriser la langue que vous avez choisie. Aucun cookie publicitaire ou de suivi n'est utilisé."
+msgstr "Ce site utilise un seul cookie technique, destiné à mémoriser la langue que vous avez choisie. Aucun cookie publicitaire ou de suivi n'est utilisé."
+
+#: src/app/$lang/privacy.tsx:68
+msgid "Ces informations servent exclusivement à répondre à vos demandes de renseignements ou de visite concernant la propriété. Elles ne sont ni vendues, ni partagées avec des tiers à des fins commerciales."
+msgstr "Ces informations servent exclusivement à répondre à vos demandes de renseignements ou de visite concernant la propriété. Elles ne sont ni vendues, ni partagées avec des tiers à des fins commerciales."
+
+#: src/features/residence/components/rooms.tsx:163
+#: src/features/residence/components/rooms.tsx:169
+#: src/features/residence/data.ts:44
+#: src/features/residence/data.ts:45
+msgid "Chambre"
+msgstr "Chambre"
+
+#: src/features/residence/components/about.tsx:34
+#: src/features/residence/components/rooms.tsx:142
+msgid "Chambres"
+msgstr "Chambres"
+
+#: src/features/residence/components/rooms.tsx:148
+msgid "Chaque chambre offre un espace généreux, une excellente luminosité et une atmosphère propice au repos."
+msgstr "Chaque chambre offre un espace généreux, une excellente luminosité et une atmosphère propice au repos."
+
+#: src/features/residence/components/highlights.tsx:36
+msgid "Confort moderne"
+msgstr "Confort moderne"
+
+#: src/features/residence/components/contact.tsx:66
+#: src/features/residence/components/nav.tsx:11
+msgid "Contact"
+msgstr "Contact"
+
+#: src/features/residence/components/contact.tsx:41
+msgid "Contactez-nous"
+msgstr "Contactez-nous"
+
+#: src/features/residence/components/contact.tsx:32
+msgid "Contactez-nous pour obtenir davantage d'informations sur cette propriété. Prix à discuter par téléphone."
+msgstr "Contactez-nous pour obtenir davantage d'informations sur cette propriété. Prix à discuter par téléphone."
+
+#: src/app/$lang/privacy.tsx:79
+msgid "Cookies"
+msgstr "Cookies"
+
+#: src/features/residence/components/rooms.tsx:97
+msgid "Cuisine"
+msgstr "Cuisine"
+
+#: src/features/residence/components/highlights.tsx:48
+msgid "De grandes ouvertures offrant une excellente luminosité."
+msgstr "De grandes ouvertures offrant une excellente luminosité."
+
+#: src/features/residence/components/rooms.tsx:103
+msgid "Découvrez des espaces lumineux de cuisine, équipés pour répondre aux besoins du quotidien tout en conservant une esthétique contemporaine."
+msgstr "Découvrez des espaces lumineux de cuisine, équipés pour répondre aux besoins du quotidien tout en conservant une esthétique contemporaine."
+
+#: src/features/residence/components/about.tsx:22
+msgid "Découvrez une résidence moderne pensée pour offrir un cadre de vie exceptionnel. Chaque espace a été conçu avec soin afin de proposer confort, luminosité et élégance. Cette propriété répond parfaitement aux attentes des familles, des investisseurs ou des personnes recherchant un logement de standing."
+msgstr "Découvrez une résidence moderne pensée pour offrir un cadre de vie exceptionnel. Chaque espace a été conçu avec soin afin de proposer confort, luminosité et élégance. Cette propriété répond parfaitement aux attentes des familles, des investisseurs ou des personnes recherchant un logement de standing."
+
+#: src/features/residence/components/hero.tsx:29
+msgid "Découvrez votre future résidence"
+msgstr "Découvrez votre future résidence"
+
+#: src/features/residence/components/hero.tsx:42
+msgid "Découvrir la propriété"
+msgstr "Découvrir la propriété"
+
+#: src/app/$lang/privacy.tsx:45
+msgid "Dernière mise à jour : 15 juillet 2026"
+msgstr "Dernière mise à jour : 15 juillet 2026"
+
+#: src/features/residence/components/rooms.tsx:145
+msgid "Des chambres confortables"
+msgstr "Des chambres confortables"
+
+#: src/features/residence/components/highlights.tsx:37
+msgid "Des espaces pensés pour votre bien-être."
+msgstr "Des espaces pensés pour votre bien-être."
+
+#: src/features/residence/components/rooms.tsx:192
+msgid "Des finitions modernes, des équipements de qualité et un design raffiné pour un confort optimal."
+msgstr "Des finitions modernes, des équipements de qualité et un design raffiné pour un confort optimal."
+
+#: src/features/residence/components/rooms.tsx:189
+msgid "Des salles de bain élégantes"
+msgstr "Des salles de bain élégantes"
+
+#: src/features/residence/components/highlights.tsx:11
+msgid "Disponibilité"
+msgstr "Disponibilité"
+
+#: src/features/residence/components/highlights.tsx:14
+msgid "Disponible à partir du 1er septembre 2026"
+msgstr "Disponible à partir du 1er septembre 2026"
+
+#: src/modules/$lang/index.tsx:35
+#~ msgid "Docs"
+#~ msgstr "Docs"
+
+#: src/app/$lang/privacy.tsx:51
+msgid "Données collectées"
+msgstr "Données collectées"
+
+#: src/modules/$lang/about.tsx:35
+#~ msgid "DX"
+#~ msgstr "DX"
+
+#: src/features/residence/components/contact.tsx:179
+#~ msgid "Envoyer"
+#~ msgstr "Envoyer"
+
+#: src/features/residence/components/contact.tsx:194
+msgid "Envoyer sur WhatsApp"
+msgstr "Envoyer sur WhatsApp"
+
+#: src/features/residence/components/contact.tsx:145
+msgid "Envoyez-nous un message"
+msgstr "Envoyez-nous un message"
+
+#: src/shared/components/ErrorBoundary.tsx:17
+msgid "Error"
+msgstr "Error"
+
+#: src/features/residence/components/rooms.tsx:71
+msgid "Espace de vie"
+msgstr "Espace de vie"
+
+#: src/features/residence/components/highlights.tsx:46
+msgid "Espaces lumineux"
+msgstr "Espaces lumineux"
+
+#. placeholder {0}: index + 1
+#: src/features/residence/components/tour.tsx:42
+msgid "Étape {0} / {total}"
+msgstr "Étape {0} / {total}"
+
+#: src/features/residence/components/rooms.tsx:54
+#: src/features/residence/components/tour.tsx:53
+msgid "Étape précédente"
+msgstr "Étape précédente"
+
+#: src/features/residence/components/rooms.tsx:62
+#: src/features/residence/components/tour.tsx:61
+msgid "Étape suivante"
+msgstr "Étape suivante"
+
+#: src/features/residence/components/about.tsx:56
+msgid "Extérieur de la villa"
+msgstr "Extérieur de la villa"
+
+#: src/features/residence/components/contact.tsx:22
+#: src/features/residence/components/hero.tsx:13
+msgid "Façade de la villa"
+msgstr "Façade de la villa"
+
+#: src/features/residence/components/about.tsx:48
+msgid "Face au golf"
+msgstr "Face au golf"
+
+#: src/features/residence/components/gallery.tsx:70
+msgid "Fermer"
+msgstr "Fermer"
+
+#: src/features/residence/components/contact.tsx:236
+#: src/features/residence/components/gallery.tsx:29
+#: src/features/residence/components/nav.tsx:10
+msgid "Galerie"
+msgstr "Galerie"
+
+#: src/shared/components/Navbar.tsx:52
+msgid "GitHub"
+msgstr "GitHub"
+
+#: src/shared/components/NotFound.tsx:30
+msgid "Go back"
+msgstr "Go back"
+
+#: src/features/residence/components/contact.tsx:220
+#~ msgid "Golf Park, Midvaal, Afrique du Sud"
+#~ msgstr "Golf Park, Midvaal, Afrique du Sud"
+
+#: src/features/residence/components/contact.tsx:197
+msgid "L'envoi se fait via WhatsApp : vous devez disposer d'un compte WhatsApp pour soumettre le formulaire."
+msgstr "L'envoi se fait via WhatsApp : vous devez disposer d'un compte WhatsApp pour soumettre le formulaire."
+
+#: src/features/residence/components/rooms.tsx:213
+#: src/features/residence/data.ts:48
+msgid "La buanderie"
+msgstr "La buanderie"
+
+#: src/app/$lang/privacy.tsx:95
+msgid "La carte de localisation est fournie par Google Maps : son affichage est soumis à la politique de confidentialité de Google. Les boutons WhatsApp et Appeler ouvrent des services externes, qui appliquent leurs propres conditions."
+msgstr "La carte de localisation est fournie par Google Maps : son affichage est soumis à la politique de confidentialité de Google. Les boutons WhatsApp et Appeler ouvrent des services externes, qui appliquent leurs propres conditions."
+
+#: src/features/residence/components/rooms.tsx:157
+#: src/features/residence/data.ts:43
+msgid "La chambre principale"
+msgstr "La chambre principale"
+
+#: src/features/residence/components/rooms.tsx:113
+#: src/features/residence/data.ts:40
+msgid "La cuisine moderne"
+msgstr "La cuisine moderne"
+
+#: src/features/residence/data.ts:36
+msgid "La façade"
+msgstr "La façade"
+
+#: src/features/residence/components/rooms.tsx:119
+#: src/features/residence/data.ts:41
+msgid "La kitchenette"
+msgstr "La kitchenette"
+
+#: src/features/residence/data.ts:42
+msgid "Le couloir"
+msgstr "Le couloir"
+
+#: src/features/residence/data.ts:49
+msgid "Le quartier Golf Park"
+msgstr "Le quartier Golf Park"
+
+#: src/features/residence/data.ts:37
+#: src/features/residence/data.ts:53
+msgid "Le salon"
+msgstr "Le salon"
+
+#: src/features/residence/data.ts:39
+#: src/features/residence/data.ts:55
+msgid "Le salon boisé"
+msgstr "Le salon boisé"
+
+#: src/features/residence/data.ts:38
+#: src/features/residence/data.ts:54
+msgid "Le séjour"
+msgstr "Le séjour"
+
+#: src/app/$lang/privacy.tsx:54
+msgid "Lorsque vous utilisez le formulaire de contact, nous recueillons uniquement les informations que vous fournissez : votre nom, votre numéro de téléphone et votre message. Aucune autre donnée personnelle n'est collectée lors de votre navigation."
+msgstr "Lorsque vous utilisez le formulaire de contact, nous recueillons uniquement les informations que vous fournissez : votre nom, votre numéro de téléphone et votre message. Aucune autre donnée personnelle n'est collectée lors de votre navigation."
+
+#: src/features/residence/components/contact.tsx:187
+#~ msgid "Maquette : le message n'est pas encore réellement envoyé."
+#~ msgstr "Maquette : le message n'est pas encore réellement envoyé."
+
+#: src/features/residence/components/contact.tsx:116
+msgid "Merci !"
+msgstr "Merci !"
+
+#: src/features/residence/components/contact.tsx:132
+msgid "Mon téléphone : {phone}"
+msgstr "Mon téléphone : {phone}"
+
+#: src/modules/$lang/todos.tsx:37
+#~ msgid "My Tasks"
+#~ msgstr "My Tasks"
+
+#: src/features/residence/components/contact.tsx:226
+msgid "Navigation"
+msgstr "Navigation"
+
+#: src/modules/$lang/todos.tsx:78
+#~ msgid "No tasks yet. Add one above!"
+#~ msgstr "No tasks yet. Add one above!"
+
+#: src/shared/components/NotFound.tsx:24
+#~ msgid "Not Found"
+#~ msgstr "Page non trouvée"
+
+#: src/features/residence/components/hero.tsx:48
+msgid "Nous contacter"
+msgstr "Nous contacter"
+
+#: src/features/residence/components/contact.tsx:118
+#~ msgid "Nous vous recontacterons très vite."
+#~ msgstr "Nous vous recontacterons très vite."
+
+#: src/features/residence/components/tour.tsx:26
+msgid "Parcourez la maison pièce par pièce"
+msgstr "Parcourez la maison pièce par pièce"
+
+#: src/features/residence/components/contact.tsx:69
+msgid "Parlons de votre projet"
+msgstr "Parlons de votre projet"
+
+#: src/modules/$lang/about.tsx:29
+#~ msgid "Performance"
+#~ msgstr "Performance"
+
+#: src/features/residence/components/gallery.tsx:46
+#: src/features/residence/components/gallery.tsx:64
+msgid "Photo de la propriété"
+msgstr "Photo de la propriété"
+
+#: src/features/residence/components/rooms.tsx:125
+msgid "Plan de travail de la cuisine"
+msgstr "Plan de travail de la cuisine"
+
+#: src/features/residence/components/contact.tsx:29
+msgid "Planifiez votre visite dès aujourd'hui"
+msgstr "Planifiez votre visite dès aujourd'hui"
+
+#: src/app/$lang/privacy.tsx:42
+#: src/features/residence/components/contact.tsx:242
+msgid "Politique de confidentialité"
+msgstr "Politique de confidentialité"
+
+#: src/features/residence/components/highlights.tsx:67
+msgid "Pourquoi choisir cette propriété"
+msgstr "Pourquoi choisir cette propriété"
+
+#: src/modules/$lang/todos.tsx:112
+#~ msgid "Powered by TanStack & Bun"
+#~ msgstr "Powered by TanStack & Bun"
+
+#: src/features/residence/components/about.tsx:16
+msgid "Présentation"
+msgstr "Présentation"
+
+#: src/features/residence/components/rooms.tsx:77
+msgid "Profitez d'un vaste espace de vie baigné de lumière naturelle, idéal pour recevoir votre famille ou vos invités dans une ambiance chaleureuse et raffinée."
+msgstr "Profitez d'un vaste espace de vie baigné de lumière naturelle, idéal pour recevoir votre famille ou vos invités dans une ambiance chaleureuse et raffinée."
+
+#: src/features/residence/components/highlights.tsx:20
+msgid "Réserver une visite"
+msgstr "Réserver une visite"
+
+#: src/app/$lang/privacy.tsx:38
+msgid "Retour au site"
+msgstr "Retour au site"
+
+#: src/shared/components/NotFound.tsx:27
+#~ msgid "Return to safety"
+#~ msgstr "Retour à l'accueil"
+
+#: src/features/residence/components/rooms.tsx:201
+#: src/features/residence/data.ts:47
+msgid "Salle de bain"
+msgstr "Salle de bain"
+
+#: src/features/residence/components/rooms.tsx:207
+#: src/features/residence/data.ts:46
+msgid "Salle de bain principale"
+msgstr "Salle de bain principale"
+
+#: src/features/residence/components/about.tsx:40
+#: src/features/residence/components/rooms.tsx:186
+msgid "Salles de bain"
+msgstr "Salles de bain"
+
+#: src/app/$lang/privacy.tsx:92
+msgid "Services tiers"
+msgstr "Services tiers"
+
+#: src/modules/$lang/index.tsx:30
+#~ msgid "Shadcn UI vibe"
+#~ msgstr "UI de shadcn"
+
+#: src/shared/components/Navbar.tsx:26
+msgid "Shadcn-inspired navbar"
+msgstr "Navbar inspirée de shadcn"
+
+#: src/shared/components/ErrorBoundary.tsx:23
+msgid "Something went wrong. Our team has been notified."
+msgstr "Something went wrong. Our team has been notified."
+
+#: src/modules/$lang/todos.tsx:40
+#~ msgid "Stay organized and productive"
+#~ msgstr "Stay organized and productive"
+
+#: src/shared/components/Navbar.tsx:23
+msgid "TanStack Start"
+msgstr "TanStack Start"
+
+#: src/shared/components/NotFound.tsx:20
+msgid "The page you are looking for has drifted off course. Let's guide you back home."
+msgstr "La page que vous cherchez s'est égarée. Revenons à l'accueil."
+
+#: src/shared/components/Navbar.tsx:44
+msgid "Todos"
+msgstr "Todos"
+
+#: src/features/residence/components/gallery.tsx:32
+msgid "Toutes les photos"
+msgstr "Toutes les photos"
+
+#: src/shared/components/ErrorBoundary.tsx:38
+msgid "Try again"
+msgstr "Try again"
+
+#: src/modules/$lang/about.tsx:32
+#~ msgid "Type Safety"
+#~ msgstr "Type Safety"
+
+#: src/features/residence/components/rooms.tsx:74
+msgid "Un salon spacieux et lumineux"
+msgstr "Un salon spacieux et lumineux"
+
+#: src/features/residence/components/highlights.tsx:42
+msgid "Une conception moderne et élégante."
+msgstr "Une conception moderne et élégante."
+
+#: src/features/residence/components/rooms.tsx:100
+msgid "Une cuisine moderne"
+msgstr "Une cuisine moderne"
+
+#: src/features/residence/components/highlights.tsx:55
+msgid "Une résidence idéale pour vivre en toute tranquillité, face au golf."
+msgstr "Une résidence idéale pour vivre en toute tranquillité, face au golf."
+
+#: src/features/residence/components/hero.tsx:32
+msgid "Une villa moderne alliant confort, élégance et espaces de vie lumineux."
+msgstr "Une villa moderne alliant confort, élégance et espaces de vie lumineux."
+
+#: src/app/$lang/privacy.tsx:65
+msgid "Utilisation de vos informations"
+msgstr "Utilisation de vos informations"
+
+#: src/features/residence/components/contact.tsx:183
+#~ msgid "Villa moderne à Golf Park, Midvaal. Confort, élégance et lumière, face au terrain de golf."
+#~ msgstr "Villa moderne à Golf Park, Midvaal. Confort, élégance et lumière, face au terrain de golf."
+
+#: src/features/residence/components/contact.tsx:218
+msgid "Villa moderne au 81 Wattel Road, Golf Park, Meyerton. Confort, élégance et lumière, face au terrain de golf."
+msgstr "Villa moderne au 81 Wattel Road, Golf Park, Meyerton. Confort, élégance et lumière, face au terrain de golf."
+
+#: src/features/residence/components/contact.tsx:233
+#: src/features/residence/components/nav.tsx:9
+msgid "Visite"
+msgstr "Visite"
+
+#: src/features/residence/components/tour.tsx:23
+msgid "Visite guidée"
+msgstr "Visite guidée"
+
+#: src/app/$lang/privacy.tsx:106
+msgid "Vos droits"
+msgstr "Vos droits"
+
+#: src/features/residence/components/contact.tsx:178
+#: src/features/residence/components/contact.tsx:184
+msgid "Votre message"
+msgstr "Votre message"
+
+#: src/features/residence/components/contact.tsx:119
+msgid "Votre message est prêt dans WhatsApp : il ne reste plus qu'à l'envoyer."
+msgstr "Votre message est prêt dans WhatsApp : il ne reste plus qu'à l'envoyer."
+
+#: src/features/residence/components/contact.tsx:149
+#: src/features/residence/components/contact.tsx:155
+msgid "Votre nom"
+msgstr "Votre nom"
+
+#: src/features/residence/components/contact.tsx:163
+#: src/features/residence/components/contact.tsx:170
+msgid "Votre téléphone"
+msgstr "Votre téléphone"
+
+#: src/app/$lang/privacy.tsx:109
+msgid "Vous pouvez à tout moment demander l'accès, la rectification ou la suppression des informations que vous nous avez transmises, en nous contactant via WhatsApp ou par téléphone."
+msgstr "Vous pouvez à tout moment demander l'accès, la rectification ou la suppression des informations que vous nous avez transmises, en nous contactant via WhatsApp ou par téléphone."
+
+#: src/modules/$lang/index.tsx:18
+#~ msgid "Welcome to ts-starter"
+#~ msgstr "Bienvenue sur ts-starter"
