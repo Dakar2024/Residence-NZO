@@ -34,7 +34,15 @@ export default defineConfig(({ mode }) => {
       // Nitro produces the deployable server output (Vercel preset auto-detected
       // on Vercel via env). The custom Bun server was renamed to server.bun.ts
       // (root-level server.ts conflicts with Nitro) and remains usable via Docker.
-      nitro(),
+      // runtime forcé : Nitro cible "bun1.x" dès que le build tourne sous bun,
+      // et le runtime Bun de Vercel (beta) fait crasher la fonction.
+      nitro({
+        vercel: {
+          functions: {
+            runtime: "nodejs22.x",
+          },
+        },
+      }),
       viteTsConfigPaths({
         projects: ["./tsconfig.json"],
       }),
