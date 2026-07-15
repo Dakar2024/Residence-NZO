@@ -55,8 +55,8 @@ RUN rm -rf node_modules ~/.bun/install/cache && \
 
 COPY --from=build /app/dist ./dist
 COPY --from=build /app/public ./public
-COPY --from=build /app/server.ts ./server.ts
+COPY --from=build /app/server.bun.ts ./server.bun.ts
 
 EXPOSE 3000
 
-CMD ["bun", "run", "server.ts"]
+CMD ["bun", "run", "server.bun.ts"]

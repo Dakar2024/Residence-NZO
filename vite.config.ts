@@ -5,6 +5,7 @@ import viteReact from "@vitejs/plugin-react";
 import viteTsConfigPaths from "vite-tsconfig-paths";
 import tailwindcss from "@tailwindcss/vite";
 import { lingui } from "@lingui/vite-plugin";
+import { nitro } from "nitro/vite";
 
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd(), "");
@@ -30,8 +31,10 @@ export default defineConfig(({ mode }) => {
           port: 42071,
         },
       }),
-      // NOTE: nitro() conflicts with a root-level server.ts (Nitro tries to import it).
-      // We keep your custom Bun production server, so Nitro plugin stays disabled.
+      // Nitro produces the deployable server output (Vercel preset auto-detected
+      // on Vercel via env). The custom Bun server was renamed to server.bun.ts
+      // (root-level server.ts conflicts with Nitro) and remains usable via Docker.
+      nitro(),
       viteTsConfigPaths({
         projects: ["./tsconfig.json"],
       }),
